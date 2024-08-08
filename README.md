@@ -1,4 +1,6 @@
-# PRODIGY_WD_02# Weather Forecast App
+# PRODIGY_WD_02
+
+# Weather Forecast App
 
 A comprehensive weather forecast application that provides real-time weather updates, detailed forecasts, and alerts for severe weather conditions.
 
@@ -16,3 +18,12 @@ A comprehensive weather forecast application that provides real-time weather upd
 - **CSS3**: Styling of the application.
 - **JavaScript**: Functionality and interactivity.
 - **OpenWeatherMap API**: Fetching real-time weather data.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- A web browser (e.g., Chrome, Firefox)
+- Internet connection
